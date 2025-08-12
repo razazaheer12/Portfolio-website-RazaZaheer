@@ -2,9 +2,6 @@
 
 A modern, fully responsive portfolio website showcasing web development skills, projects, and professional experience. Built with clean HTML5, CSS3, and JavaScript.
 
-## 🚀 Live Demo
-**[View Live Demo](file:///C:/Users/haris/Desktop/responsive-portfolio-website-RazaZaheer/index.html)**
-
 ## ✨ Features
 
 - **Fully Responsive** - Works perfectly on all devices
