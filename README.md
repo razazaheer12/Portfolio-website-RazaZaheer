@@ -1,9 +1,9 @@
-# 🎨 Responsive Portfolio Website - RazaZaheer
+# Portfolio Website - RazaZaheer
 
 A modern, fully responsive portfolio website showcasing web development skills, projects, and professional experience. Built with clean HTML5, CSS3, and JavaScript.
 
 ## 🚀 Live Demo
-**[View Live Demo](https://razazaheer12.github.io/responsive-portfolio-website-RazaZaheer/)**
+**[View Live Demo](file:///C:/Users/haris/Desktop/responsive-portfolio-website-RazaZaheer/index.html)**
 
 ## ✨ Features
 
@@ -59,4 +59,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Raza Zaheer**
 - GitHub: [@razazaheer12](https://github.com/razazaheer12)
-- Portfolio: [Live Demo](https://razazaheer12.github.io/responsive-portfolio-website-RazaZaheer/)
+- Portfolio: [Live Demo](file:///C:/Users/haris/Desktop/responsive-portfolio-website-RazaZaheer/index.html)
