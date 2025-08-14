@@ -51,6 +51,12 @@ A modern, fully responsive portfolio website showcasing web development skills, 
 3. **Create Email Template** and get your Template ID
 4. **Update these values in `main.js`**
 
+## 🌐 Run the website
+
+Simply open index.html in your browser.
+
+No installation required.   
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
