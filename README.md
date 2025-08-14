@@ -55,8 +55,14 @@ A modern, fully responsive portfolio website showcasing web development skills, 
 
 This project is open source and available under the [MIT License](LICENSE).
 
+Run the website
+
+Simply open index.html in your browser.
+
+No installation required.
+
 ## 👨‍💻 Author
 
 **Raza Zaheer**
 - GitHub: [@razazaheer12](https://github.com/razazaheer12)
-- Portfolio: [Live Demo](file:///C:/Users/haris/Desktop/responsive-portfolio-website-RazaZaheer/index.html)
+
