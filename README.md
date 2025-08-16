@@ -1,6 +1,6 @@
 # 🌐 Portfolio Website - RazaZaheer
 
-A modern, fully responsive portfolio website showcasing web development skills, projects, and professional experience. Built with clean HTML5, CSS3, and JavaScript.
+A modern, fully responsive portfolio website showcasing web development skills, projects, and professional experience. Built with clean HTML5, CSS3, and JavaScript. Optimized for all devices, it combines performance with a minimalist design—complete with a downloadable CV and semantic markup for accessibility.
 
 <img width="1349" height="619" alt="image" src="https://github.com/user-attachments/assets/befb885d-d50e-452e-b1b5-a262d93d8f1c" />
 
