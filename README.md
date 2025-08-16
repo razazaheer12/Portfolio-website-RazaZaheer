@@ -61,12 +61,6 @@ No installation required.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-Run the website
-
-Simply open index.html in your browser.
-
-No installation required.
-
 ## 👨‍💻 Author
 
 **Raza Zaheer**
