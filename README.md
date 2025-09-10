@@ -34,7 +34,7 @@ A modern, fully responsive portfolio website showcasing web development skills, 
    cd responsive-portfolio-website-RazaZaheer
    ```
 
-3. **Open** `index.html` in your browser
+3. **Open** https://portfolio-razazaheer-web.netlify.app/
 
 ## 🎨 Sections Included
 
