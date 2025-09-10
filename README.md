@@ -53,7 +53,7 @@ A modern, fully responsive portfolio website showcasing web development skills, 
 
 ## 🌐 Run the website
 
-Simply open index.html in your browser.
+https://portfolio-razazaheer-web.netlify.app/
 
 No installation required.   
 
